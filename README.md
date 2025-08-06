@@ -40,3 +40,6 @@ Activity spikes seen during the years 2014–2016
 
 # 💼 Summary
 This dashboard provides a consolidated view of health insurance providers, offering financial and operational insights for decision-makers. Built to support analytical storytelling with interactive filters and visuals.
+
+<img width="1223" height="699" alt="image" src="https://github.com/user-attachments/assets/b02acd6d-ae36-4da7-abbc-1c808f040eb1" />
+
